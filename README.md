@@ -6,4 +6,4 @@ This is an example repo for students to practice connecting HTML, CSS, and JavaS
 
 2. Open up `index.html`, `src/index.js`, and `styles/style.css` to see the code.
 
-3. Double click the `index.html` file in the root of the repo to open it in a browser
+3. Double click the `index.html` file in the root of the repo to open it in a browser.
