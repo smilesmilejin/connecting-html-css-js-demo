@@ -18,3 +18,8 @@ body {
     rgb(86, 204, 204)
   );
 }
+
+.highlight {
+  background-color: palegoldenrod;
+  font-weight: bolder;
+}
